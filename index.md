@@ -32,6 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/super-xman/super-xman.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+<video src="https://walkclass-vr.oss-cn-hangzhou.aliyuncs.com/yuzelin/my-music/demo/%E8%A7%86%E9%A2%91%E6%95%99%E5%AD%A6.mp4" controls="controls" width="500"><video/>
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
