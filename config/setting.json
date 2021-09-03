@@ -1,0 +1,33 @@
+{
+  "config": {
+    "branch": "super-xman",
+    "cname": "",
+    "domain": "https://super-xman.github.io",
+    "email": "125320456@qq.com",
+    "password": "",
+    "platform": "github",
+    "port": "22",
+    "privateKey": "",
+    "remotePath": "",
+    "repository": "super-xman.github.io",
+    "server": "",
+    "token": "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",
+    "tokenUsername": "",
+    "username": "125320456@qq.com"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
