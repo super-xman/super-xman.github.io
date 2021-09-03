@@ -1,12 +1,19 @@
 {
   "config": {
+    "branch": "main",
+    "cname": "",
+    "domain": "https://super-xman.github.io",
+    "email": "125320456@qq.com",
+    "password": "",
     "platform": "github",
-    "domain": "",
-    "repository": "",
-    "branch": "",
-    "username": "",
-    "email": "",
-    "token": ""
+    "port": "22",
+    "privateKey": "",
+    "remotePath": "",
+    "repository": "super-xman.github.io",
+    "server": "",
+    "token": "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",
+    "tokenUsername": "",
+    "username": "super-xman"
   },
   "comment": {
     "commentPlatform": "gitalk",
