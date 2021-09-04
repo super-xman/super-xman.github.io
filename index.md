@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 关于转码
 
-You can use the [editor on GitHub](https://github.com/super-xman/super-xman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+&emsp;&emsp;作为一名本硕都是机械专业的学生，转码不是一个容易的决定，即使成功转码未来还是面临许多不确定的挑战，但我还是做了这个选择。从现实的角度看，机械方向的就业前景目前来看不太乐观（当然优秀的机械工程师依然是社会紧缺人才）；从发展角度来看，计算机领域是一个富有活力、快速迭代且充满挑战的行业；从我个人的角度，编程能带给我的低成本高回报的成就感，一人一桌一电脑，足以让我其乐无穷。在帮老师完成项目的过程中，我时常会庆幸，这是一个正确的决定。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+&emsp;&emsp;但我也依然在迷茫，前端是我非常感兴趣的方向，深度学习又是我的研究方向，平时花了很大功夫积累的技术知识如果今后无法再施展不免有些可惜。直到今年的夏天，我去绵阳出差，由于项目的特殊性，我留在当地整整一个月。这一个月来，我从一睁眼，满脑子就只有项目和按捺不住的兴奋。看着自己的作品一天天完善，功能一天天丰富，我可能比甲方更憧憬它最终的样子。这是我之前在校研究课题未曾有过的状态。在回来的飞机上，我想明白了，未来就做喜欢的事情吧。
 
 ### Markdown
 
