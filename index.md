@@ -6,35 +6,17 @@
 
 ## 我的项目
 
-### 项目1：音乐指挥训练与演奏WebApp
+### 项目1：音乐指挥训练与演奏
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 项目2：场景化单词记忆
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+这是由我独立开发的第一款 webapp，也可以算是我的启蒙老师，帮助我在实践中巩固了前端三件套的基本语法，带我进入了前端的世界。当初的设想是做一款
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/super-xman/super-xman.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<video src="https://walkclass-vr.oss-cn-hangzhou.aliyuncs.com/yuzelin/my-music/demo/%E8%A7%86%E9%A2%91%E6%95%99%E5%AD%A6.mp4" controls="controls" width="500"><video/>
+<!-- <video src="https://walkclass-vr.oss-cn-hangzhou.aliyuncs.com/yuzelin/my-music/demo/%E8%A7%86%E9%A2%91%E6%95%99%E5%AD%A6.mp4" controls="controls" width="500"><video/> -->
 
 ### Support or Contact
 
