@@ -15,8 +15,7 @@
 2. 模拟演奏：指挥能够控制音乐的走向，并保证演奏出的音乐与动作高度一致。
 3. 轨迹记录：可以将指挥轨迹以 JSON 文件的格式保存在本地，并支持回放。
 
-
-
+<video src="https://walkclass-vr.oss-cn-hangzhou.aliyuncs.com/yuzelin/my-music/demo/%E8%A7%86%E9%A2%91%E6%95%99%E5%AD%A6.mp4" controls="controls" width="500" style="margin: 0 auto"><video/>
 
 ### 项目2：场景化单词记忆
 
@@ -25,5 +24,3 @@
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/super-xman/super-xman.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-<!-- <video src="https://walkclass-vr.oss-cn-hangzhou.aliyuncs.com/yuzelin/my-music/demo/%E8%A7%86%E9%A2%91%E6%95%99%E5%AD%A6.mp4" controls="controls" width="500"><video/> -->
