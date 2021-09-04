@@ -2,22 +2,28 @@
 
 &emsp;&emsp;作为一名本硕都是机械专业的学生，转码不是件容易的事，即使成功转码未来还面临许多不确定的挑战，但其实我没有犹豫地，选择了转码。从现实角度看，机械方向的就业前景不太乐观（当然优秀的机械工程师依然是紧缺人才）；从发展角度来看，计算机领域是一个富有活力、快速迭代且充满挑战的行业；从我个人角度，编程能带给我的低成本高回报的成就感，一人一桌一电脑，足以让我其乐无穷。在完成项目的过程中，我时常庆幸，这是一个正确的决定。
 
+## 关于方向
+
 &emsp;&emsp;真正让我迷茫的是，转码后的方向问题。前端是我个人感兴趣的方向，深度学习又是我的研究方向，平时花了大量精力积累的技术知识如果今后无法再施展不免会可惜。直到今年（2021）夏天，我去绵阳出差，由于项目的特殊性，我在当地呆了一个月。这一个月来，每天一睁眼，我满脑子就只有项目和按捺不住的兴奋。看着自己的作品一天天完善，功能一天天丰富，我可能比甲方更憧憬它最终的样子。这是我之前在校研究课题未曾有过的状态。在回来的飞机上，我想明白了，未来就做喜欢的事吧。
 
 ## 我的项目
 
 ### 项目1：音乐指挥训练与演奏
 
+&emsp;&emsp;这是我独立开发的第一个落地项目，面向音乐指挥专业学生研发，帮助学生进行音乐指挥训练和现场演奏模拟。最终效果得到了音乐学院多位老师的认可，顺利通过最终验收。该项目主要实现以下功能：
+1. 辅助训练：根据指挥轨迹，实时识别指挥意图，并评估动作与音乐的契合度。
+2. 模拟演奏：指挥能够控制音乐的走向，并保证演奏出的音乐与动作高度一致。
+3. 轨迹记录：可以将指挥轨迹以 JSON 文件的格式保存在本地，并支持回放。
+
+
+
+
 ### 项目2：场景化单词记忆
 
-这是由我独立开发的第一款 webapp，也可以算是我的启蒙老师，帮助我在实践中巩固了前端三件套的基本语法，带我进入了前端的世界。当初的设想是做一款
+&emsp;&emsp;这是由我独立开发的第一款 webapp，也可以算是我的启蒙老师，帮助我在实践中巩固了前端三件套的基本语法，带我进入了前端的世界。当初的设想是做一款涵盖中小学常用单词的webapp，特点是场景化记忆和交互记忆，支持生词本记录。但最终由于时间问题，只做出了设想中的一部分功能。
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/super-xman/super-xman.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 <!-- <video src="https://walkclass-vr.oss-cn-hangzhou.aliyuncs.com/yuzelin/my-music/demo/%E8%A7%86%E9%A2%91%E6%95%99%E5%AD%A6.mp4" controls="controls" width="500"><video/> -->
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
