@@ -15,7 +15,7 @@
 2. 模拟演奏：指挥能够控制音乐的走向，并保证演奏出的音乐与动作高度一致。
 3. 轨迹记录：可以将指挥轨迹以 JSON 文件的格式保存在本地，并支持回放。
 
-<video src="https://walkclass-vr.oss-cn-hangzhou.aliyuncs.com/yuzelin/my-music/demo/%E8%A7%86%E9%A2%91%E6%95%99%E5%AD%A6.mp4" controls="controls" width="500" style="margin: 0 auto"><video/>
+<video src="https://walkclass-vr.oss-cn-hangzhou.aliyuncs.com/yuzelin/my-music/demo/%E8%A7%86%E9%A2%91%E6%95%99%E5%AD%A6.mp4" controls="controls" style="width: 100%"><video/>
 
 ### 项目2：场景化单词记忆
 
