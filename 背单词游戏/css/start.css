@@ -8,6 +8,7 @@ body{
     font-size: 20px;
     background: url(../图库/切图/BG.png);
     background-size: cover;
+    overflow: hidden;
 }
 .wrap{
     display: flex;

@@ -1,5 +1,6 @@
 body{
     background: url(../图库/切图/BG.png);
+    overflow: hidden;
 }
 .wrap{
     width: 795px;
